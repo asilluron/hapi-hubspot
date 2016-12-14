@@ -1,5 +1,5 @@
 # hapi-hubspot
-[![Circle CI](https://img.shields.io/circleci/project/asilluron/hapi-hubspot/master.svg?style=flat-square)](https://circleci.com/gh/asilluron/hapi-hubspot/tree/master)
+[![CircleCI](https://circleci.com/gh/asilluron/hapi-hubspot/tree/master.svg?style=svg)](https://circleci.com/gh/asilluron/hapi-hubspot/tree/master)
 
 [![Stories in Ready](https://badge.waffle.io/asilluron/hapi-hubspot.svg?label=ready&title=Ready&style=flat-square)](http://waffle.io/asilluron/hapi-hubspot)
 
