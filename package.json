@@ -1,7 +1,7 @@
 {
   "name": "hapi-hubspot",
   "version": "1.0.1",
-  "description": "Hapi Plugin to handle Mongoose handshake and initial setup",
+  "description": "Hapi Plugin to handle hubsport handshake and initial setup (via Node-Hubspot)",
   "main": "lib/index.js",
   "scripts": {
     "test": "lab -a code -t 100 -L",
