@@ -1,0 +1,45 @@
+{
+  "name": "hapi-hubspot",
+  "version": "1.0.1",
+  "description": "Hapi Plugin to handle Mongoose handshake and initial setup",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "test-cov-html": "lab -a code -r html -o coverage.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asilluron/hapi-hubspot.git"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "hubspot",
+    "crm"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "Andrew Silluron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asilluron/hapi-hubspot/issues"
+  },
+  "homepage": "https://github.com/asilluron/hapi-hubspot#readme",
+  "devDependencies": {
+    "boom": "^4.2.0",
+    "code": "^4.0.0",
+    "eslint": "^3.12.2",
+    "eslint-config-semistandard": "^7.0.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "hapi": "^16.0.1",
+    "lab": "^11.2.1",
+    "rewire": "^2.4.0"
+  },
+  "dependencies": {
+    "hoek": "^4.1.0",
+    "hubspot": "^0.4.1"
+  }
+}
